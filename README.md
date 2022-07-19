@@ -25,7 +25,7 @@ A user will be able to:
  * Internet access
 
 # installation process
-* Clone to our repo : git clone https://github.com/NewtonOmbese/BMI-Calculator.git
+* Clone to our repo : git clone https://github.com/marylizkarumba/BMI-Calculator.git
 * Unzip the downloaded files in a folder of choice.
 * Open the index file from the zipped file with any browser.
 
@@ -54,4 +54,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Authors Info
-Newton Ombese <https://github.com/NewtonOmbese>
+Maryliz Karumba <https://github.com/marylizkarumba>

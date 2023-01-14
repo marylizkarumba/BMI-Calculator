@@ -7,7 +7,7 @@
  - [Features](#features)
  - [Requirements](#requirements)
  - [Installation Process](#installation-Process)
- - [Live Link](#Live-Link)
+ - [Live Link](#Live-Link)http://127.0.0.1:5500/index.html
  - [Technology  Used](#technology-Used)
  - [Licence](#licence)
  - [Authors Info](#Authors-Info)
@@ -32,11 +32,17 @@ A user will be able to:
 ### Technology  Used
 * We used HTML for laying out the structure of the web pages
 * The CSS used to style the web pages
-* JavaScript used to compute the tip amount and the total amount
+* JavaScript used to compute the tip amount and the total amount.
+
+
+![portfolio project](https://user-images.githubusercontent.com/99593138/212456988-4cd303fe-6d79-4472-b9e6-e91c4ce48d82.PNG)
+
+
+
 
 ## Licence
 MIT License
-Copyright (c) [2022] [BMI Calculator]
+Copyright (c) [2023] [BMI Calculator]
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -55,3 +61,4 @@ SOFTWARE.
 
 ## Authors Info
 Maryliz Karumba <https://github.com/marylizkarumba>
+LinkedIn  www.linkedin.com/in/maryliz-karumba-952641178

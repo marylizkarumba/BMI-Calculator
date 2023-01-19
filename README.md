@@ -7,7 +7,7 @@
  - [Features](#features)
  - [Requirements](#requirements)
  - [Installation Process](#installation-Process)
- - [Live Link](#Live-Link)http://127.0.0.1:5500/index.html
+ - [Live Link](#Live- Link)http://127.0.0.1:5500/index.html
  - [Technology  Used](#technology-Used)
  - [Licence](#licence)
  - [Authors Info](#Authors-Info)
@@ -25,7 +25,7 @@ A user will be able to:
  * Internet access
 
 # installation process
-* Clone to our repo : git clone https://github.com/marylizkarumba/BMI-Calculator.git
+* Clone to our repo : git clone https://github.com/marylizkarumba/Project-Landing-Page...git
 * Unzip the downloaded files in a folder of choice.
 * Open the index file from the zipped file with any browser.
 
